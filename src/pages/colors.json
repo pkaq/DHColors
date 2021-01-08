@@ -1,0 +1,218 @@
+[
+    {
+        "id": "001",
+        "name": "zhu sha",
+        "cname": "朱砂",
+        "color": "AF5457"
+    },
+    {
+        "id": "002",
+        "name": "rou se",
+        "cname": "肉色",
+        "color": "CA8681"
+    },
+    {
+        "id": "003",
+        "name": "zhe shi",
+        "cname": "赭石",
+        "color": "68423A"
+    },
+    {
+        "id": "004",
+        "name": "tu hong",
+        "cname": "土紅",
+        "color": "6F4236"
+    },
+    {
+        "id": "005",
+        "name": "fuse - 1",
+        "cname": "膚色-1",
+        "color": "B37E66"
+    },
+    {
+      "id": "006",
+      "name": "yan zhi",
+      "cname": "胭脂",
+      "color": "76272F"
+    },
+    {
+        "id": "007",
+        "name": "zhu biao",
+        "cname": "朱磦",
+        "color": "FC713E"
+    },
+    {
+        "id": "008",
+        "name": "xiong huang",
+        "cname": "雄黃",
+        "color": "E58D49"
+    },
+    {
+        "id": "009",
+        "name": "qian zhe shi",
+        "cname": "淺赭石",
+        "color": "99533E"
+    },
+    {
+        "id": "010",
+        "name": "fuse - 2",
+        "cname": "膚色-2",
+        "color": "664E48"
+    },
+    {
+        "id": "011",
+        "name": "fuse - 3",
+        "cname": "膚色-3",
+        "color": "765646"
+    },
+    {
+        "id": "012",
+        "name": "qian dan",
+        "cname": "鉛丹",
+        "color": "FC6D40"
+    },
+    {
+        "id": "013",
+        "name": "shi huang",
+        "cname": "石黃",
+        "color": "EAC455"
+    },
+    {
+        "id": "014",
+        "name": "tu huang",
+        "cname": "土黃",
+        "color": "C5975D"
+    },
+    {
+        "id": "015",
+        "name": "mi tuo seng",
+        "cname": "密陀僧",
+        "color": "C08165"
+    },
+    {
+        "id": "016",
+        "name": "ni di",
+        "cname": "泥底",
+        "color": "AF967F"
+    },
+    {
+        "id": "017",
+        "name": "fuse - 4",
+        "cname": "膚色-4",
+        "color": "6D6E6D"
+    },
+    {
+        "id": "018",
+        "name": "xiong huang",
+        "cname": "雌黃",
+        "color": "E5BE5A"
+    },
+    {
+        "id": "019",
+        "name": "tou lv",
+        "cname": "頭綠",
+        "color": "4E9F7B"
+    },
+    {
+        "id": "020",
+        "name": "bai lv",
+        "cname": "白綠",
+        "color": "70AC9B"
+    },
+    {
+        "id": "021",
+        "name": "qing lv",
+        "cname": "青綠",
+        "color": "6E8D7F"
+    },
+    {
+        "id": "022",
+        "name": "tong lv",
+        "cname": "銅綠",
+        "color": "788B72"
+    },
+    {
+        "id": "023",
+        "name": "wa hui",
+        "cname": "瓦灰",
+        "color": "396172"
+    },
+    {
+        "id": "024",
+        "name": "gan lan lv",
+        "cname": "橄欖綠",
+        "color": "528669"
+    },
+    {
+        "id": "025",
+        "name": "qing jin shi",
+        "cname": "青金石",
+        "color": "2C3985"
+    },
+    {
+        "id": "026",
+        "name": "tou qing",
+        "cname": "頭青",
+        "color": "204A97"
+    },
+    {
+        "id": "027",
+        "name": "zang qing",
+        "cname": "藏青",
+        "color": "2B5679"
+    },
+    {
+        "id": "028",
+        "name": "hua qing",
+        "cname": "花青",
+        "color": "31445B"
+    },
+    {
+        "id": "029",
+        "name": "mei hei",
+        "cname": "煤黑",
+        "color": "292929"
+    },
+    {
+        "id": "030",
+        "name": "qun qing",
+        "cname": "羣青",
+        "color": "5A6BBC"
+    },
+    {
+        "id": "031",
+        "name": "bai",
+        "cname": "白",
+        "color": "EDF4EF"
+    },
+    {
+        "id": "032",
+        "name": "qian hui",
+        "cname": "淺灰",
+        "color": "D3D0CD"
+    },
+    {
+        "id": "033",
+        "name": "qian zhogn hui",
+        "cname": "淺中灰",
+        "color": "ACA9A6"
+    },
+    {
+        "id": "034",
+        "name": "zhong hui",
+        "cname": "中灰",
+        "color": "858281"
+    },
+    {
+        "id": "035",
+        "name": "an hui",
+        "cname": "暗灰",
+        "color": "595758"
+    },
+    {
+        "id": "036",
+        "name": "hei",
+        "cname": "黑",
+        "color": "3B393B"
+    }
+]
